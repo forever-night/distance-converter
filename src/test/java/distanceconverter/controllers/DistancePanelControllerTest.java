@@ -1,6 +1,6 @@
-package graphics.controllers;
+package distanceconverter.controllers;
 
-import graphics.views.panels.DistancePanelView;
+import distanceconverter.views.panels.DistancePanelView;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

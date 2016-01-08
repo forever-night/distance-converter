@@ -1,7 +1,7 @@
-package graphics.controllers;
+package distanceconverter.controllers;
 
-import graphics.util.DistanceConverter;
-import graphics.views.panels.AdvancedDistancePanelView;
+import distanceconverter.util.DistanceConverter;
+import distanceconverter.views.panels.AdvancedDistancePanelView;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

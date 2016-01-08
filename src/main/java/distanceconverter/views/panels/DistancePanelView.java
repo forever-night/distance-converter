@@ -1,8 +1,8 @@
-package graphics.views.panels;
+package distanceconverter.views.panels;
 
-import graphics.controllers.DistancePanelController;
-import graphics.util.interfaces.Clearable;
-import graphics.util.interfaces.Resultable;
+import distanceconverter.controllers.DistancePanelController;
+import distanceconverter.util.interfaces.Clearable;
+import distanceconverter.util.interfaces.Resultable;
 
 import javax.swing.*;
 import java.awt.*;

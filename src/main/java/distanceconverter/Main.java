@@ -1,6 +1,6 @@
-package graphics;
+package distanceconverter;
 
-import graphics.views.frames.DistanceFrame;
+import distanceconverter.views.frames.DistanceFrame;
 
 /**
  * Created by anna on 01/01/16.

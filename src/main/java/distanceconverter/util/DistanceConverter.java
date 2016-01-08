@@ -1,4 +1,4 @@
-package graphics.util;
+package distanceconverter.util;
 
 /**
  * Created by anna on 01/01/16.

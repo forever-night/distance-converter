@@ -1,9 +1,9 @@
-package graphics.controllers;
+package distanceconverter.controllers;
 
-import graphics.util.DistanceConverter;
-import graphics.util.interfaces.Clearable;
-import graphics.util.interfaces.Resultable;
-import graphics.views.panels.DistancePanelView;
+import distanceconverter.util.DistanceConverter;
+import distanceconverter.util.interfaces.Clearable;
+import distanceconverter.util.interfaces.Resultable;
+import distanceconverter.views.panels.DistancePanelView;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

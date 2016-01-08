@@ -1,9 +1,9 @@
-package graphics.views.frames;
+package distanceconverter.views.frames;
 
-import graphics.util.interfaces.Clearable;
-import graphics.util.interfaces.Resultable;
-import graphics.views.panels.AdvancedDistancePanelView;
-import graphics.views.panels.DistancePanelView;
+import distanceconverter.util.interfaces.Clearable;
+import distanceconverter.util.interfaces.Resultable;
+import distanceconverter.views.panels.AdvancedDistancePanelView;
+import distanceconverter.views.panels.DistancePanelView;
 
 import javax.swing.*;
 import java.awt.*;

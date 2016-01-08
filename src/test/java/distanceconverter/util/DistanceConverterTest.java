@@ -1,4 +1,4 @@
-package graphics.util;
+package distanceconverter.util;
 
 import org.junit.After;
 import org.junit.Assert;
