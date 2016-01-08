@@ -16,8 +16,6 @@ public class DistanceFrame extends JFrame implements Clearable, Resultable{
     private static final int WIDTH = 640;
     private static final int HEIGHT = 360;
 
-    private boolean isClicked = false;
-
     private JPanel pnlDistance, pnlAdvancedDistance;
 
     private ArrayList<Clearable> clearables;
@@ -51,10 +49,6 @@ public class DistanceFrame extends JFrame implements Clearable, Resultable{
 
         setVisible(true);
     }
-
-    public boolean getClicked() { return isClicked; }
-
-    public void setClicked(boolean isClicked) { this.isClicked = isClicked; }
 
     public String getKilometersInput() {
         return ((DistancePanelView) pnlDistance).getInput();
